@@ -378,7 +378,7 @@ export class TriangleShape extends SegmentedShape {
  */
 export class EllipseShape implements Shape {
     /**
-     * Инициализирует экземпляр класса {@link CircleShape}.
+     * Инициализирует экземпляр класса {@link EllipseShape}.
      *
      * @param center - Центральная точка {@link Point} эллипса.
      * @param a - Большая полуось.
